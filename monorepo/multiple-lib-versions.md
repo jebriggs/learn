@@ -1,3 +1,8 @@
+---
+layout: page
+title: Your Page Title
+---
+
 **You:**
 
 In a monorepo managed by nx which uses npm as the the package manager, is it possible to us two different versions of a library, for example, ag-grid@29 and ag-grid@30?
