@@ -1,1 +1,4 @@
-# Markdown home page
+---
+layout: page
+title: Your Page Title
+---
